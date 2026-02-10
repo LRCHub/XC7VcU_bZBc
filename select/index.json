@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "至上主義アドトラック(Instrumental)",
+  "base_artist": "hololive IDOL PROJECT",
+  "createdAt": "2026-02-10T13:08:09.855358Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "至上主義アドトラック",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/pl_01_至上主義アドトラック_hololive_IDOL_PROJECT.txt"
+    }
+  ]
+}
